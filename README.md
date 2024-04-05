@@ -6,5 +6,3 @@
 ### I'm Leo, im 15 years old.
 I'm currently attending middle school!
 I make some random games in Godot, and i also enjoy doing cybersecurity ctf's
-
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=LeoHP08.LeoHP08" />
