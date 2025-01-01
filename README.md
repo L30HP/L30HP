@@ -6,6 +6,6 @@
 
 <p align="left">
   <a>
-    <img src="https://skillicons.dev/icons?i=git,js,html,css,apple,arduino,blender,cloudflare,bots,github,githubactions,gmail,godot,kali,lua,md,obsidian,powershell,py,raspberrypi,replit,sqlite,unity,vscode,windows&perline=5" />
+    <img src="https://skillicons.dev/icons?i=git,js,html,css,arduino,blender,bots,github,githubactions,godot,kali,py,raspberrypi,replit,sqlite,unity,vscode,windows&perline=5" />
   </a>
 </p>
