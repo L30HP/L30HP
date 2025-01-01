@@ -5,7 +5,7 @@
 ### I'm Leo, im 16 years old.
 
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a href="l30.dk">
     <img src="https://skillicons.dev/icons?i=git,js,html,css,apple,arduino,blender,cloudflare,bots,github,githubactions,gmail,godot,kali,lua,md,obsidian,powershell,py,raspberrypi,replit,sqlite,unity,vscode,windows&perline=5" />
   </a>
 </p>
